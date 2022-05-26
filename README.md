@@ -1,4 +1,4 @@
-## Peduli Bicara - Bangkit 2022 Capstone Project
+## Peduli Bicara (C22-PS108) - Bangkit 2022 Capstone Project
 Glad to see you here! This repo contain all of our project named "Peduli Bicara" as an educational app for children's speech delay problem.
 
 ## Resources Data
