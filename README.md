@@ -1,3 +1,6 @@
+
+![logo peduli bicara  Recovered](https://user-images.githubusercontent.com/92667081/172021601-3b54554d-51a0-4b71-8abb-613ecd41a77f.png)
+
 ## Peduli Bicara (C22-PS108) - Bangkit 2022 Capstone Project
 Glad to see you here! This repo contain the machine learning for our project named "Peduli Bicara" as an educational app for Indonesia children's speech delay problem. 
 
