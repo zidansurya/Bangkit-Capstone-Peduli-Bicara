@@ -1,5 +1,9 @@
 ## Peduli Bicara (C22-PS108) - Bangkit 2022 Capstone Project
-Glad to see you here! This repo contain all of our project named "Peduli Bicara" as an educational app for children's speech delay problem.
+Glad to see you here! This repo contain the machine learning for our project named "Peduli Bicara" as an educational app for Indonesia children's speech delay problem. 
+
+## What is Peduli Bicara?
+Peduli Bicara is an android application to help prevent speech delay problems in children caused by lack of stimulation.
+This application comes up with features to measure the children's word mention accuracy, help them to learn new words, and give a new way for parents to interact with their children.
 
 ## Resources Data
 1. https://www.tensorflow.org/lite/examples/audio_classification/overview
