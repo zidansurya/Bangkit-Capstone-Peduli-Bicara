@@ -3,7 +3,12 @@ Glad to see you here! This repo contain the machine learning for our project nam
 
 ## What is Peduli Bicara?
 Peduli Bicara is an android application to help prevent speech delay problems in children caused by lack of stimulation.
-This application comes up with features to measure the children's word mention accuracy, help them to learn new words, and give a new way for parents to interact with their children.
+This application comes up with features to measure the children's word mention accuracy, help them to learn new words, and give a new way for parents to interact with their children.!
+
+## Workflow
+![workflow-ML](https://user-images.githubusercontent.com/92667081/172021435-c2ebafa9-0714-4d52-a47b-5a16b9591d70.jpg)
+
+
 
 ## Resources Data
 1. https://www.tensorflow.org/lite/examples/audio_classification/overview
